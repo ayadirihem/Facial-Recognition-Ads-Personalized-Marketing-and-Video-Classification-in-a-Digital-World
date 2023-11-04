@@ -1,0 +1,212 @@
+[
+  {
+    "Video": "./videos/B-Roll Vidéo Restaurant - Food vidéo - La Promenade.mp4",
+    "Sentiment": "Neutral",
+    "Topic": " ads for restaurants / Food",
+    "Target": " female male",
+    "Age": " >20"
+  },
+  {
+    "Video": "./videos/Best Advertisement Ever - Winner of Best Ad 2014.mp4",
+    "Sentiment": "Neutral ",
+    "Topic": " ads for Beauty products and cosmetics",
+    "Target": " female",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Advertising for a makeup artist.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " ads for Beauty products and cosmetics",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Best ad of the month  Coke ad  Saudi Arab  Arab Creative Council.mp4",
+    "Sentiment": "Neutral ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Charity Starts at Home  Ramadan  Islamic Relief Canada.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Chris Hemsworth for the New BOSS Bottled Eau de Parfum  BOSS Fragrances.mp4",
+    "Sentiment": "Neutral ",
+    "Topic": " ads for Beauty products and cosmetics",
+    "Target": " female",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Coca-Cola Sunset.mp4",
+    "Sentiment": "Sad ",
+    "Topic": " Awareness Ads",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Donate Blood Save Life.mp4",
+    "Sentiment": "Neutral Happiness",
+    "Topic": " Awareness Ads",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Eds Heinz Ad.mp4",
+    "Sentiment": "Happiness Neutral surprise",
+    "Topic": " ads for restaurants / Food",
+    "Target": " female male",
+    "Age": " None"
+  },
+  {
+    "Video": "./videos/ElaN – the unbias button.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/for Tomorrow - Manifesto.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Glossier — Product Video.mp4",
+    "Sentiment": "Neutral ",
+    "Topic": " ads for Beauty products and cosmetics",
+    "Target": " female",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/I Cant Breathe - Mental Health Is Health Campaign  CAMH.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Let’s be active for health for all.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Mental Health Campaign Safety is Everything TV Advertisement 3.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Momo  Dima Bono !!.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " ads for restaurants / Food",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Nestlé Contrex Commercial Ma Contrexpérience.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Nike - Unlimited.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/NIKE 30 SECONDS AD  SCHOOL PROJECT.mp4",
+    "Sentiment": "Neutral ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Nike What are girls made of.mp4",
+    "Sentiment": "Neutral ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Organ Donor Foundation TV ad - Leila.mp4",
+    "Sentiment": "Neutral ",
+    "Topic": " Awareness Ads",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/P&G Thank You Mom Campaign Ad Strong (Rio 2016 Olympics).mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Seven Billion Dreams One Planet Consume with Care.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Starbucks It Starts With You.mp4",
+    "Sentiment": "Happiness Neutral surprise",
+    "Topic": " ads for restaurants / Food",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/The Awkward Silence  Friendship & Mental Health  Ad Council.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/This Ramadan share to feel good!.mp4",
+    "Sentiment": "Happiness ",
+    "Topic": " inspirational/motivational ad",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/UNICEF  for every child.mp4",
+    "Sentiment": "Sad ",
+    "Topic": " ads for self_esteem",
+    "Target": " female male",
+    "Age": " >10"
+  },
+  {
+    "Video": "./videos/We see you A campaign for mental health care.mp4",
+    "Sentiment": "Neutral surprise fear happiness ",
+    "Topic": " ads for health care",
+    "Target": " female male",
+    "Age": " >18"
+  },
+  {
+    "Video": "./videos/Wear Confidence  Double Wear Stay-in-Place Makeup.mp4",
+    "Sentiment": "Sad ",
+    "Topic": " ads for self_esteem",
+    "Target": " female male",
+    "Age": " >10"
+  },
+  {
+    "Video": "./videos/Chris Hemsworth for the New BOSS Bottled Eau de Parfum  BOSS Fragrances.mp4",
+    "Sentiment": "Neutral",
+    "Topic": " ads for Beauty products and cosmetics",
+    "Target": " female",
+    "Age": " >20"
+  }
+]

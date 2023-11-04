@@ -1,0 +1,329 @@
+{
+   "intents":[
+ {
+   "tag": "restaurant Food",
+   "patterns": [
+      "happiness",
+      "neutral",
+      "surprise",
+      "food",
+      "person",
+      "restaurants",
+      "fast food",
+      "cofe",
+      "Chocolate",
+      "cookies", 
+      "candy",
+      "ice cream",
+      "Soda",
+      "juice",
+      "milk",
+      "Chips",
+      "snacks", 
+      "nuts",
+      "fruit",
+      "gum",
+      "cereal",
+      "yogurt",
+      "soups",
+       "Seasoning",
+       "condiments",
+       "ketchup",
+       "plate",
+       "wine glass",
+       "sandwich",
+       "pizza",
+       "donut",
+       "cake",
+       "hot dog"
+   ],
+   "responses": [
+      "Happiness neutral surprise, ads for restaurants / Food, female male, None"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "automobiles",
+   "patterns": [
+      "happiness",
+      "neutral",
+      "surprise",
+      "sad",
+      "person",
+      "car repair",
+      "gas",
+      "motor oil",
+      "Cars",
+      "automobiles", 
+      "car sales",
+      "auto parts",
+      "car insurance",
+       "motorcycle"
+   ],
+   "responses": [
+      "Neutral, ads for automobiles, female male, >20"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "electronics",
+   "patterns": [
+      "computers",
+      "laptops",
+      "tablets",
+      "happiness",
+      "neutral",
+      "callphones",
+      "Tvs",
+      "internet",
+      "person",
+      "anger"
+   ],
+   "responses": [
+      "Neutral Happiness, ads for electronics, female male, >14"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "finance",
+   "patterns": [
+      "banks",
+      "anger",
+      "sadness",
+      "happiness",
+      "neutral",
+      "credit cards",
+      "investment firms",
+      "disgust",
+      "person"
+   ],
+   "responses": [
+      "Neutral Happiness surprise, ads for finance, female male, >25"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "Education",
+   "patterns": [
+      "books",
+      "degrees",
+      "sadness",
+      "happiness",
+      "neutral",
+      "universities",
+      "disgust",
+      "person",
+       "sadness",
+       "fear",
+       "colleges",
+       "kindergarten", 
+       "online degrees",
+       "backpack"
+   ],
+   "responses": [
+      "Neutral Happiness surprise, ads for Education, female male, >18"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "Beauty products and cosmetics",
+   "patterns": [
+      "deodorants",
+      "toothpaste",
+      "makeup",
+      "happiness",
+      "neutral",
+      "hair products",
+      "laser hair removal",
+      "person",
+       "parfum",
+       "anger",
+       "hair drier"
+   ],
+   "responses": [
+      "Neutral , ads for Beauty products and cosmetics, female, Age: >18"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "healthcare",
+   "patterns": [
+      "hospitals",
+      "health insurance",
+      "allergy",
+      "cold remedy",
+      "neutral",
+      "home tests",
+      "vitamins",
+      "person",
+       "anger",
+       "sadness",
+       "fear",
+       "disgust"
+   ],
+   "responses": [
+      "Neutral surprise fear happiness , ads for health care, female male, >18"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "clothing",
+   "patterns": [
+      "jeans",
+      "shoes",
+      "eye glasses",
+      "cold remedy",
+      "neutral",
+      "handbags",
+      "watches",
+      "person",
+       "watches",
+       "anger",
+       "jewelry",
+       "happiness",
+       "surprise"
+   ],
+   "responses": [
+      "happiness , ads for clothing,female male, >18"
+   ],
+   "context_set": ""
+},
+  {
+   "tag": "game",
+   "patterns": [
+      "video",
+      "games",
+      "toys",
+      "mobile game",
+      "watches",
+      "person",
+       "anger",
+       "fear",
+       "happiness",
+       "surprise"
+   ],
+   "responses": [
+      "Sentiment: happiness , Topic: ads for games, target: female male, Age: >10"
+   ],
+   "context_set": ""
+},
+  {
+   "tag": "domestic_violence",
+   "patterns": [
+      "person",
+       "anger",
+       "fear",
+       "sadness",
+       "surprise"
+   ],
+   "responses": [
+      "Sad , ads for domestic_violence, female male, >15"
+   ],
+   "context_set": ""
+},
+  {
+   "tag": "self_esteem",
+   "patterns": [
+      "person",
+       "anger",
+       "fear",
+       "sadness",
+       "surprise",
+       "bullying",
+       "self esteem"
+   ],
+   "responses": [
+      "Sad , ads for self_esteem, female male, >10"
+   ],
+   "context_set": ""
+},
+  {
+   "tag": "animal_right",
+   "patterns": [
+      "person",
+       "anger",
+       "fear",
+       "sadness",
+       "surprise",
+       "dog",
+       "cat",
+       "bird",
+       "horse",
+       "sheep",
+       "cow",
+       "elephant",
+       "bear",
+       "zebra",
+       "giraffe",
+       "disgust"
+   ],
+   "responses": [
+      "Sad , ads for animal_right, female male, Age: >10"
+   ],
+   "context_set": ""
+},
+  {
+   "tag": "travel",
+   "patterns": [
+      "person",
+       "travel agents",
+       "hotels",
+       "theme parks",
+       "surprise",
+       "cruises",
+       "airlines",
+       "happiness",
+       "airplane",
+       "bus",
+       "train",
+       "boat",
+       "bench",
+       "backpack"
+   ],
+   "responses": [
+      "Happinness , ads for travel, female male, >10"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "sports",
+   "patterns": [
+      "person",
+       "frisbee",
+       "skis",
+       "snowboard",
+       "surprise",
+       "sports ball",
+       "kite",
+       "happiness",
+       "baseball bat",
+       "baseball glove",
+       "skateboard",
+       "surfboard",
+       "bench",
+       "tennis racket",
+       "anger"
+       
+   ],
+   "responses": [
+      "Happinness , ads for travel, female male, >10"
+   ],
+   "context_set": ""
+},
+       {
+   "tag": "sensible",
+   "patterns": [
+      "person",
+       "anger",
+       "fear",
+       "surprise",
+       "sadness"
+       
+   ],
+   "responses": [
+      "Sadness , Sensible, female male, >18"
+   ],
+   "context_set": ""
+}
+]
+}
