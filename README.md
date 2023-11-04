@@ -36,3 +36,23 @@ In "Facial Recognition Ads," we leverage advanced facial recognition algorithms 
 The project employs facial recognition technology, deep learning, and computer vision to analyze facial features and attributes. Machine learning models may be used to match demographic information with appropriate ads. Video classification technology is used to ensure that ads align with the subject matter of the content. Data protection and privacy compliance are essential aspects of the technical infrastructure.
 
 **Join us in redefining advertising in the digital age with "Facial Recognition Ads: Personalized Marketing and Video Classification in a Digital World"!**
+![image](https://github.com/ayadirihem/Facial-Recognition-Ads-Personalized-Marketing-and-Video-Classification-in-a-Digital-World/assets/55142856/4d0f293d-7c8c-4b36-9ab0-bd344dc8ecdb)
+
+![image](https://github.com/ayadirihem/Facial-Recognition-Ads-Personalized-Marketing-and-Video-Classification-in-a-Digital-World/assets/55142856/aab321ca-7a2e-4e60-8c0c-97da6a89afb0)
+
+# *** Screen Shots for the Web application
+
+![image](https://github.com/ayadirihem/Facial-Recognition-Ads-Personalized-Marketing-and-Video-Classification-in-a-Digital-World/assets/55142856/a06cb59d-db16-456a-90cb-7cb55085e632)
+
+![image](https://github.com/ayadirihem/Facial-Recognition-Ads-Personalized-Marketing-and-Video-Classification-in-a-Digital-World/assets/55142856/25f1dd22-fa1a-4810-9722-72a8252a55e3)
+
+![image](https://github.com/ayadirihem/Facial-Recognition-Ads-Personalized-Marketing-and-Video-Classification-in-a-Digital-World/assets/55142856/48732ddc-e743-49fe-a445-5d50c59a48da)
+
+
+
+
+![image](https://github.com/ayadirihem/Facial-Recognition-Ads-Personalized-Marketing-and-Video-Classification-in-a-Digital-World/assets/55142856/c3e27705-a6c7-4521-af8e-da1c98d21f66)
+
+
+
+
