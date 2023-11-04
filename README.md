@@ -55,4 +55,6 @@ The project employs facial recognition technology, deep learning, and computer v
 
 
 
+![image](https://github.com/ayadirihem/Facial-Recognition-Ads-Personalized-Marketing-and-Video-Classification-in-a-Digital-World/assets/55142856/0ff5ac45-ef3a-415f-a559-90fef38d5b54)
+
 
